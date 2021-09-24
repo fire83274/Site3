@@ -12,6 +12,8 @@ body
     no-repeat;
     -webkit-background-size: contain;
     background-size: cover; 
+    
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
    
 }
 
